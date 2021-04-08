@@ -1,6 +1,18 @@
 # tech-interview-for-developer
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer?ref=badge_shield)
 
+[![author](https://img.shields.io/badge/author-gyoogle-0066FF.svg?style=flat-square)](https://gyoogle.github.io)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/LICENSE)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyoogle%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FF66FF.svg?style=flat-square)](http://makeapullrequest.com)
+
+[![Watch on GitHub](https://img.shields.io/github/watchers/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/watchers)
+[![Star on GitHub](https://img.shields.io/github/stars/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/stargazers)
+[![Fork on GitHub](https://img.shields.io/github/forks/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/network/members)
+
+[<img src="https://github.com/gyoogle/blog/blob/master/docs/.vuepress/public/images/BMC.png?raw=true" width="150px" height="30px">](https://www.buymeacoffee.com/gyoogle)
+
+<br>
 
 ### 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖
 
@@ -23,13 +35,15 @@
 
 잘못된 내용은 [이슈](https://github.com/gyoogle/tech-interview-for-developer/issues)와 [PR](https://github.com/gyoogle/tech-interview-for-developer/pulls)로 알려주세요 💡
 
+<br>
+
 **🙏도움을 주신 분들🙏**
 
-| <img src="https://avatars3.githubusercontent.com/u/21700738?s=460&v=4">[ykk2006](<https://github.com/ykk2006>) | <img src="https://avatars1.githubusercontent.com/u/38597469?s=460&u=2dfb09e65b47940c7661b7093c6cf8c91b8f13ea&v=4">[ksundong](<https://github.com/ksundong>) | <img src="https://avatars1.githubusercontent.com/u/43029633?s=460&u=4897a0df8a8ac97067112eb57de2167e243c4548&v=4">[qwer9412](<https://github.com/qwer9412>) | <img src="https://avatars2.githubusercontent.com/u/29394651?s=460&u=3c063ccc82426a6ae3e793d850c2e43d5d501499&v=4">[LOG-INFO](https://github.com/LOG-INFO) | <img src="https://avatars3.githubusercontent.com/u/13811604?s=460&u=4224297ac21c625fd85c6f77fc335ec2745d4845&v=4">[JungWinter](https://github.com/JungWinter) | <img src="https://avatars0.githubusercontent.com/u/11865970?s=460&u=b49b71d66a5cf2ebae68c14e8b88030b9bcf7152&v=4">[inspire12](<https://github.com/inspire12>) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://avatars3.githubusercontent.com/u/24839897?s=460&u=a541beed4fcd7a72c65c9ef5761b6a9a63ac6e42&v=4">**[5d-jh](https://github.com/5d-jh)** | <img src="https://avatars1.githubusercontent.com/u/32220765?s=460&u=dad3eb175d3262ed345d0ef3208bad42eb2ea71b&v=4">**[hsh2001](https://github.com/hsh2001)** | <img src="https://avatars1.githubusercontent.com/u/37139642?s=460&v=4">**[jng0820](https://github.com/jng0820)** | <img src="https://avatars0.githubusercontent.com/u/8300010?s=460&u=f872a8ecdede0c41005726c643ea2c745f883f95&v=4">**[Einere](https://github.com/Einere)** | <img src="https://avatars1.githubusercontent.com/u/19317237?s=460&u=c297a277b1e7b5b4b38fa8ada3d06ace2a7cece2&v=4">**[minuk8932](https://github.com/minuk8932)** | <img src="https://avatars0.githubusercontent.com/u/24666330?s=460&u=831de57268119232a92a20eb610a3167dba99dc0&v=4">**[Dae-Hwa](https://github.com/Dae-Hwa)** |
-| <img src="https://avatars2.githubusercontent.com/u/33534771?s=460&u=ca3b53117a1093fdd0dfd0bbddf8ea1da9528334&v=4">**[WooVictory](https://github.com/WooVictory)** | <img src="https://avatars0.githubusercontent.com/u/26344479?s=460&u=743bbedb0360ea6f54bbf80c58142d3b3153c3f1&v=4">**[jongnan](https://github.com/jongnan)** | <img src="https://avatars2.githubusercontent.com/u/13609011?s=460&u=c8050e51189b8274be4b1803bb3a37cfa9d3b721&v=4">**[skyoun97](https://github.com/skyoun97)** | <img src="https://avatars3.githubusercontent.com/u/44488296?s=460&u=1f350360d7c3897e8945ae961682c5bdd545221d&v=4">**[dirmathfl](https://github.com/dirmathfl)** | <img src="https://avatars1.githubusercontent.com/u/25308679?s=460&u=d3601dc80551df28f6c0c1f2da6d9e64e24fae89&v=4">**[kommadot](https://github.com/kommadot)** | <img src="https://avatars0.githubusercontent.com/u/10149370?s=460&u=1ef731b0e43a18498b2b49faa3b54fc3b8dde319&v=4">**[gunhoflash](https://github.com/gunhoflash)** |
-| <img src="https://avatars0.githubusercontent.com/u/48986787?s=460&u=72d408c03ad1a1ed09438484820d7782e81fe85f&v=4">**[Livenow14](https://github.com/Livenow14)** |               <img src="https://avatars1.githubusercontent.com/u/32726809?s=460&u=989a4b3cd95e6f87c3896959b7286a9969f3c1d9&v=4">**[startergate](https://github.com/startergate)** |             <img src="https://avatars3.githubusercontent.com/u/50068946?s=460&u=50e59c7322aab8aa4bca2244c47bc045ec665446&v=4">**[mimseong](https://github.com/mimseong)** |               <img src="https://avatars2.githubusercontent.com/u/44119161?s=460&v=4">**[zziri](https://github.com/zziri)** |                                                              |                                                              |
+<br>
+
+<a href="https://github.com/gyoogle/tech-interview-for-developer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gyoogle/tech-interview-for-developer" />
+</a>
 
 <br>
 
@@ -157,6 +171,7 @@
   - [함수형 프로그래밍(Fuctional Programming)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/Fuctional%20Programming.md)
   - [데브옵스(DevOps)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4(DevOps).md)
   - [서드 파티(3rd party)란?](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EC%8D%A8%EB%93%9C%ED%8C%8C%ED%8B%B0(3rd%20party)%EB%9E%80.md)
+  - [마이크로서비스 아키텍처(MSA)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Software%20Engineering/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98(MSA).md)
   
 
 <br>
@@ -212,10 +227,17 @@
   - [[Java] Promotion & Casting](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Promotion%20%26%20Casting.md#promotion--casting)
   - [[Java] Primitive type & Reference type](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Primitive%20type%20%26%20Reference%20type.md#primitive-type--reference-type)
   - [[Java] Error & Exception](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Error%20%26%20Exception.md#error--exception)
+  - [[Java] Stream API](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Stream.md)
   
 - ### Javascript
 
   - [[Javascript] ES2015+ 요약 정리](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJavascript%5D%20ES2015%2B%20%EC%9A%94%EC%95%BD%20%EC%A0%95%EB%A6%AC.md)
+  - [[Javascript] Object Prototype](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJavasript%5D%20Object%20Prototype.md)
+  - [[Javascript] Closure](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJavascript%5D%20Closure.md)
+
+- ### Python
+
+  - [[Python] 매크로 사용법](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BPython%5D%20%EB%A7%A4%ED%81%AC%EB%A1%9C%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
 
 <br>
 
@@ -236,13 +258,16 @@
 - [네이티브 앱 & 웹 앱 & 하이브리드 앱](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EC%95%B1%20%26%20%EC%9B%B9%20%EC%95%B1%20%26%20%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EC%95%B1.md)
 - [PWA(Progressive Web App)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/PWA%20(Progressive%20Web%20App).md)
 - Vue.js
-  - [Vue.js 라이프사이클](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue.js%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
-  - [Vue CLI + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue%20CLI%20%2B%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
-  - [Vue.js + Firebase로 이메일 회원가입&로그인 구현하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue.js%20%2B%20Firebase%EB%A1%9C%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84.md)
-  - [Vue.js + Firebase로 Facebook 로그인 연동하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue.js%20%2B%20Firebase%EB%A1%9C%20%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81(facebook)%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
+  - [Vue.js 라이프사이클](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue/Vue.js%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)
+  - [Vue CLI + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue/Vue%20CLI%20%2B%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
+  - [Vue.js + Firebase로 이메일 회원가입&로그인 구현하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue/Vue.js%20%2B%20Firebase%EB%A1%9C%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84.md)
+  - [Vue.js + Firebase로 Facebook 로그인 연동하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Vue/Vue.js%20%2B%20Firebase%EB%A1%9C%20%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81(facebook)%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
   - [Nuxt.js란](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/Nuxt.js.md>)
 - React
-  - [React + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React%20%26%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
+  - [React Fragment](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React/React%20Fragment.md)
+  - [React Hook](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React/React%20Hook.md)
+  - [React + Spring Boot 연동하여 환경 구축하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/React/React%20%26%20Spring%20Boot%20%EC%97%B0%EB%8F%99%ED%95%98%EC%97%AC%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
+
 
 <br>
 

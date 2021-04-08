@@ -17,7 +17,7 @@ public void quickSort(int[] array, int left, int right) {
     
     if(left >= right) return;
     
-    int pi = partition();
+    int pi = partition(array, left, right);
     
     quickSort(array, left, pi-1);
     quickSort(array, pi+1, right);
@@ -112,7 +112,7 @@ public static int partition(int[] array, int left, int right) {
     int mid = (left + right) / 2;
     swap(array, left, mid);
  
-    int pivot = array[mid];
+    int pivot = array[left];
     int i = left, j = right;
  
     while (i < j) {
